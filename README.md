@@ -36,7 +36,7 @@ Mi nombre es Vicente Daie Pinilla. Soy Ingeniero Civil en Computación y actualm
 Mis intereses apuntan hacia el desarrollo e implementación de herramientas digitales, principalmente orientadas al área científica. He trabajado con lo siguiente:
 </p>
 
-<h2 class="centered">Administración de sistemas</h2>
+<h2 style="margin-top:10px;margin-bottom:20px;">Administración de sistemas</h2>
 <p class="centered">
     <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,gitlab,nginx,raspberrypi,gcp,aws" />
 </p>
