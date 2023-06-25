@@ -7,7 +7,7 @@ Mi nombre es Vicente Daie Pinilla. Soy Ingeniero Civil en Computación y actualm
 </p>
 
 <p style="text-align:justify;font-weight:300;font-size:1.2em;">
-Mis intereses apuntan hacia el desarrollo e implementación de herramientas digitales, principalmente orientadas al área científica. He trabajado con lo siguiente:
+Mis intereses apuntan hacia el desarrollo e implementación de herramientas digitales, principalmente orientadas al área científica.
 </p>
 
 <h2 style="margin-top:10px;margin-bottom:20px;text-align:center;">Administración de sistemas</h2>
@@ -15,12 +15,12 @@ Mis intereses apuntan hacia el desarrollo e implementación de herramientas digi
     <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,gitlab,nginx,raspberrypi,gcp,aws" />
 </p>
 
-<h2 style="margin-top:10px;margin-bottom:20px;text-align:center;">Administración de sistemas</h2>
+<h2 style="margin-top:10px;margin-bottom:20px;text-align:center;">Desarrollo de aplicaciones web</h2>
 <p style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=flask,django,react,wordpress,nodejs,mysql,postgres" />
 </p>
 
-<h2 style="margin-top:10px;margin-bottom:20px;text-align:center;">Administración de sistemas</h2>
+<h2 style="margin-top:10px;margin-bottom:20px;text-align:center;">Programación</h2>
 <p style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=python,js,html,css,php,cpp,c" />
 </p>
