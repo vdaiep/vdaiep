@@ -3,7 +3,7 @@
 </h1>
 
 <p style="text-align:justify;font-weight:300;font-size:1.2em;">
-Mi nombre es Vicente Daie Pinilla. Soy Ingeniero Civil en Computación y actualmente trabajo para el <a href="https://cmmedu.uchile.cl" target="_blank">Laboratorio de Educación</a> del Centro de Modelamiento Matemático de la Universidad de Chile. También estoy disponible para trabajo freelance remoto.
+Mi nombre es Vicente Daie Pinilla. Soy Ingeniero Civil en Computación y actualmente trabajo para el <a href="https://cmmedu.uchile.cl" target="_blank">Laboratorio de Educación</a> del Centro de Modelamiento Matemático de la Universidad de Chile.
 </p>
 
 <p style="text-align:justify;font-weight:300;font-size:1.2em;">
@@ -12,17 +12,12 @@ Mis intereses apuntan hacia el desarrollo e implementación de herramientas digi
 
 <h2 style="margin-top:10px;margin-bottom:20px;text-align:center;">Administración de sistemas</h2>
 <p style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=linux,git,docker,kubernetes,gitlab,nginx,raspberrypi,gcp,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws" />
 </p>
 
 <h2 style="margin-top:10px;margin-bottom:20px;text-align:center;">Desarrollo de aplicaciones web</h2>
 <p style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=flask,django,react,wordpress,nodejs,mysql,postgres" />
-</p>
-
-<h2 style="margin-top:10px;margin-bottom:20px;text-align:center;">Programación</h2>
-<p style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,php,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=flask,fastapi,django,react,wordpress" />
 </p>
 
 <div style="margin-top: 50px;text-align: center;font-size: 1.5em;display: flex;justify-content: space-around;">
