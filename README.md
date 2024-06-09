@@ -12,7 +12,7 @@ Mis intereses apuntan hacia el desarrollo e implementación de herramientas digi
 
 <h2 style="margin-top:10px;margin-bottom:20px;text-align:center;">Administración de sistemas</h2>
 <p style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,python" />
 </p>
 
 <h2 style="margin-top:10px;margin-bottom:20px;text-align:center;">Desarrollo de aplicaciones web</h2>
